@@ -1,4 +1,33 @@
-# Project 1 - EDA: New York City Airbnb Open Data
+# 🗽 NYC Airbnb Market Analysis
+
+<p align="center">
+  <strong>🔎 Exploratory Data Analysis · 🏠 ~49,000 Listings · 🗽 New York City</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-EDA-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Dataset-~49K%20Listings-FF5A5F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Junior%20Analyst-2EA44F?style=for-the-badge">
+</p>
+
+> **A hands-on EDA project for junior data analysts** using ~49,000 NYC Airbnb listings.
+
+Clean messy real-world data, explore pricing patterns, investigate reviews and availability, and turn your findings into **clear, evidence-based insights.**
+
+---
+
+## 📚 Part of a practical **AI & Machine Learning Workspace**  👉 [Complete Guide](YOUR_GUIDE_LINK)
+
+    
+<p align="center">
+  <strong>🗽 Explore the market. 📊 Find the patterns. 💡 Tell the story.</strong>
+</p>
+
+---
+
+
+
+
 
 
 ## Dataset - verified real source
