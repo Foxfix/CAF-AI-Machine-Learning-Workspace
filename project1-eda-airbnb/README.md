@@ -16,7 +16,8 @@ Clean messy real-world data, explore pricing patterns, investigate reviews and a
 
 ---
 
-## 📚 Part of a practical **AI & Machine Learning Workspace**  👉 [Complete Guide](YOUR_GUIDE_LINK)
+## 📚 Part of a practical **AI & Machine Learning Workspace** 
+A detailed, real-world junior-level task for this repository, included in the full guide  👉 [Complete Guide](YOUR_GUIDE_LINK)
 
     
 <p align="center">
