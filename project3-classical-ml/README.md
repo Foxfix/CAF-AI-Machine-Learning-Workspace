@@ -1,3 +1,35 @@
+# 🏡 California Housing Price Prediction
+
+<p align="center">
+
+<strong>🤖 Classical Machine Learning · 🏠 20,640 Samples · 🌴 California Housing</strong>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Models-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Dataset-20.6K%20Samples-FF5A5F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Junior%20Data%20Scientist-2EA44F?style=for-the-badge">
+
+</p>
+
+<p align="center">
+  <a href="#-project-overview">Overview</a> •
+  <a href="#-dataset">Dataset</a> •
+  <a href="#-machine-learning-workflow">Workflow</a> •
+  <a href="#-models">Models</a> •
+  <a href="#-results">Results</a> •
+  <a href="#-setup">Setup</a>
+</p>
+
+---
+## 📚 Part of a practical **AI & Machine Learning Workspace** 
+✨ *A detailed, real-world junior-level task for this repository, included in the full guide*  👉 [AI & Machine Learning Workspace
+](https://codeaiflow.cloud/b/ai-machine-learning-workspace)
+
+---
 # Project 3 - Classical Machine Learning: California Housing Price Prediction
 
 
