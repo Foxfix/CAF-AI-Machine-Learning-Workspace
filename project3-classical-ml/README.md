@@ -30,7 +30,7 @@
 ](https://codeaiflow.cloud/b/ai-machine-learning-workspace)
 
 ---
-# Project 3 - Classical Machine Learning: California Housing Price Prediction
+# Project 4 - Classical Machine Learning: California Housing Price Prediction
 
 
 ## Dataset - source
@@ -64,7 +64,7 @@ python -m src.evaluate   # scores the held-out test set exactly once
 
 ## Repository structure
 ```
-project3-classical-ml/
+project4-classical-ml/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
