@@ -64,7 +64,7 @@ python -m src.evaluate   # scores the held-out test set exactly once
 
 ## Repository structure
 ```
-project2-classical-ml/
+project3-classical-ml/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
