@@ -10,7 +10,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-3776AB?style=flat)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-4.2.0-F37626?style=flat&logo=jupyter&logoColor=white)
 
-[Overview](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-project-overview) • [Dataset](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-dataset) • [Workflow](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-machine-learning-workflow) • [Models](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-models) • [Results](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-results) • [Setup](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-setup)
 
 ---
 
