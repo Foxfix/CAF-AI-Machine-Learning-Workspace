@@ -1,3 +1,25 @@
+# 🛍️ Customer Segmentation with Unsupervised Learning
+**🤖 Classical Machine Learning · 🧩 Clustering · 🛒 200 Mall Customers**
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.2.2-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.13.1-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.4-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-3776AB?style=flat)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-4.2.0-F37626?style=flat&logo=jupyter&logoColor=white)
+
+[Overview](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-project-overview) • [Dataset](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-dataset) • [Workflow](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-machine-learning-workflow) • [Models](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-models) • [Results](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-results) • [Setup](https://github.com/Foxfix/CAF-AI-Machine-Learning-Workspace/tree/main/project5-unsupervised-learning#-setup)
+
+---
+
+## 📚 Part of a practical **AI & Machine Learning Workspace**
+
+✨ *A detailed, real-world junior-level task for this repository, included in the full guide* 👉 [AI & Machine Learning Workspace](https://codeaiflow.cloud/b/ai-machine-learning-workspace)
+
+---
+
 # Project 5, Option A - Customer Segmentation (Unsupervised Learning)
 
 
